@@ -115,6 +115,12 @@ header{
     border-radius: .5rem;
     color:var(--white);
     background-color: var(--mid-blue);
+    transition: all .6s ease;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: var(--principal-blue);
 }
 
 .whoWeAre{
