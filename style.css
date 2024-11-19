@@ -344,7 +344,7 @@ h3 {
     }
 }
 
-@media (max-width: 386px) {
+@media (max-width: 437px) {
     .info {
         right: -20px;
         max-width: 70%;
