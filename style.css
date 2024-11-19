@@ -294,6 +294,14 @@ h3 {
     align-items: center;
     justify-content: start;
     gap:1rem;
+    
+  }
+  .address_Inner_Wrapper i{
+    transition: all .6s ease;
+  }
+  .address_Inner_Wrapper i:hover {
+    cursor: pointer;
+    transform: scale(1.2);
   }
   .second{
     flex-direction: column;
