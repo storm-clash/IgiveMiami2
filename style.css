@@ -341,3 +341,15 @@ h3 {
         padding-bottom: 2rem;
     }
 }
+
+@media (max-width: 386px) {
+    .info {
+        right: -20px;
+        max-width: 70%;
+    }
+.info p {
+    background-color: var(--white);
+    padding: .5rem;
+    border-radius: .5rem;
+}
+}
