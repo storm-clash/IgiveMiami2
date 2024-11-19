@@ -216,7 +216,7 @@ h3 {
   footer{
     width: 100%;
     min-height: 40svh;
-    margin-top: 5rem;
+    margin-top: 6rem;
     color:var(--white);
     background-color: var(--principal-blue);
     position: relative;
@@ -229,7 +229,7 @@ h3 {
     left: 50%;
     transform: translate(-50%);
     width: 70%;
-    min-height: 15svh;
+    min-height: 20svh;
     background-color: #ffffff;
     box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1), 0px 1px 3px var(--mid-blue);
     border-radius: .5rem;
@@ -267,7 +267,7 @@ h3 {
     display: grid;
     grid-template-columns: Repeat(auto-fill, minmax(450px, 1fr));
     gap:.5rem;
-    padding-top: 3.5rem;
+    padding-top: 4.5rem;
   }
 
   .first,
